@@ -1,0 +1,1 @@
+proyecto desarrollado con livewire, laravel permisions, adminlte
